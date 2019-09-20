@@ -1,0 +1,30 @@
+npm init -y
+
+npm i webpack webpack-cli
+
+npm i html-webpack-plugin
+
+# create directory src and create others files .js
+
+# create file webpack.config.js and write worlds ...
+
+# Execute the code
+npx webpack -d
+
+# To auto execute webpack
+npm i webpack-dev-server
+
+# To execute now
+npx webpack-dev-server -d
+
+npm i @babel/core @babel/cli @babel/preset-env
+
+npm i @babel/plugin-proposal-class-properties
+
+# create .babelrc
+
+npm i babel-loader
+
+npm i @babel/preset-react
+
+npm i react react-dom
